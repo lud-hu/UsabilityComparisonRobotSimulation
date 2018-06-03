@@ -3,7 +3,7 @@ A Comparative Study to evaluate the usability of two industrial robot simulation
 
 ## Method
 
-In a university project we compared two different softwares for industrial robot simulation regarding their usability. We first conducted coginitive walkthroughs with several experts and then tested 25 participants how good the tools can be learned by beginners.
+In a university project we compared two different softwares for industrial robot simulation regarding their usability. We first conducted cognitive walkthroughs with several experts and then tested with 25 participants how easy the tools can be learned by beginners.
 
 ![Screenshot V-REP](vrep.png)
 ![Screenshot RokiSim](roki.jpg)
